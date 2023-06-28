@@ -1,0 +1,20 @@
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  border-radius: 15px;
+}
+.profile-name {
+  color: #6366f1;
+  font-size: 23px;
+  margin-block-start: 0px;
+}
+.profile-bio {
+  color: #2c364c;
+  font-size: 15px;
+  margin-block-start: 0px;
+}
